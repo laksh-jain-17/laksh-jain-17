@@ -1,6 +1,6 @@
 # Hi, I'm Laksh Jain 👋
 
-Full Stack Developer specializing in MERN Stack and Java Backend development.
+Full Stack Developer specializing in MEVN Stack and Java Backend development.
 Currently completing my MCA from Nirma University, Ahmedabad.
 
 ## 🛠 Tech Stack
