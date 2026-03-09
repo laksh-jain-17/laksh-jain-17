@@ -8,12 +8,12 @@ Currently completing my MCA from Nirma University, Ahmedabad.
 **Backend:** Node.js, Express.js, Java (JSE), Laravel (PHP)  
 **Databases:** MongoDB, MySQL, PostgreSQL, Redis  
 **DevOps:** Docker, GCP, CI/CD, Linux  
-**Real-Time:** WebRTC, WebSockets, LiveKit (SFU)  
+**Real-Time:** WebRTC, WebSockets, SFU  
 
 ## 🚀 Featured Projects
 
 ### CoreTalk — Real-Time Video Conferencing
-Full video conferencing platform built with Vue.js + LiveKit SFU architecture.
+Full video conferencing platform built with Vue.js + SFU architecture.
 Supports real-time audio/video, JWT auth, session recording, deployed on GCP via Docker.
 
 ### TechEssentials — B2B Inventory Management  
